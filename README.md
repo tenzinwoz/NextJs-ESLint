@@ -21,3 +21,6 @@ Inside `/.vscode/settings.json` we set prettier as the default formatter, and al
 ### Checking standards pre-commit:
 
 Using [husky](https://www.npmjs.com/package/husky) we can check all of our style standards to make sure our git commits are up to par. Check those checks out at [`.husky/pre-commit`](.husky/pre-commit)
+
+### Check the blog:
+(https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky)
